@@ -36,7 +36,7 @@ cd mini-twitter-api
 
 ### Usando Docker
 First of all, let's run the database:
-- ```bash
+```bash
 docker-compose up -d db
 ```
 
